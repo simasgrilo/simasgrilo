@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I call myself Erick Grilo, 29 years old and currenlty working at a very big consulting company as an SAP Team Lead / Functional-Technical Consultant, with focus on ABAP Stack (SAPUI5, CDS Views and Classic ABAP) and PM/CO modules.
+I have a MSc. in Computer Science with emphasis on Applied Logic from Universidade Federal Fluminense, where my research resulted in a handful of scientific publications in many events. I created a Logic to model program interaction using a logic framework that can validade properties about system models called ReLo.
+I also have experiences with other languages/stack, mainly Python (Flask, Django, FastAPI, etc), and JavaScript (Node.JS and SAPUI5)
+
+You can find more details about me [here](https://simasgrilo.github.io/)
+
 <!--
 **simasgrilo/simasgrilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
