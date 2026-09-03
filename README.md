@@ -9,12 +9,12 @@ I always aim to deliver clean and efficient solutions, having to deal with legac
 ## What am I currently doing?  :computer:
 
 - I am currently working at [UX Innovation](https://uxinnovation.com.br/) as a Senior Software Architect, with a mission to connecting business and people from companies all over the world to extract the best of value for business models with technology.
-- 🔭 I’m currently working on maintaining and evolving some big legacy ABAP systems, as well as working on data governance solutions using ABAP CAP/BTP solutions, as well as implementing business solutions using integration suite tools, ABAP and SAPUI5 apps, and CAP (TypeScript-based) that supports our customers in many processes carrying over millions of USD.
-- 🌱 I’m currently deepening my knowledge of Python and Linux admin by building my own lite version of a Docker runtime, based off John Cricket's [build your own Docker](https://codingchallenges.fyi/challenges/challenge-docker/). I like to tackle challenges out of my comfort zone and I aim to always learn useful things for either my daily life, or at least to keep my brain alive.
-- I'm also experimenting with AI and AI Agents in a specific postgraduate course - will be entering some repos here soon! :)
+- 🔭 One of my core activities is working on maintaining and evolving ABAP landscapes, focusing on native-cloud solutions in CAP, also working on data governance solutions using ABAP CAP/BTP, as well as implementing business solutions using integration suite tools, ABAP and SAPUI5 apps, and CAP (TypeScript-based) that supports our customers in many processes carrying over millions of USD. I also specialize in Python, backend focused with FastAPI to securely deploy relevant APIs across different business domains.
+- 🌱 I’m currently deepening my knowledge in AI by building my own MCP server, based off John Cricket's [build your own MCP server](https://codingchallenges.fyi/challenges/challenge-mcp-server/). I like to tackle challenges out of my comfort zone and I aim to always learn useful things for either my daily life, or at least to keep my brain alive.
+- I'm also experimenting with AI and AI Agents in a specific specialisation grad school course - will be entering some repos here soon! :)
 - 📫 How to reach me: over [LinkedIn](https://www.linkedin.com/in/simasgrilo/?locale=en_US) or directly via [e-mail](mailto:simasgrilo86@gmail.com)
 
-## Background :rocket:
+## Background
 
 I have a MSc. in Computer Science with emphasis on Software Engineering - Applied Logic from Universidade Federal Fluminense, where my research resulted in a handful of scientific publications in many events, including a [book chapter published by Springer](https://www.springerprofessional.de/critical-systems-for-smart-cities-towards-certifying-software/16729418). I created a Logic to model program interaction using a logic framework that can validade properties about system models called [ReLo](https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1019.pdf&tipo=trabalho).
 
@@ -23,10 +23,10 @@ You can find more details about me [here](https://simasgrilo.github.io/)
 ## Technologies and Tools
 
 ### Languages:
-ABAP, CDS, Python, Groovy, JavaScript, TypeScript, Java
+ABAP, CDS, Python, NodeJS Groovy, JavaScript, TypeScript, Java
 
 ### Frameworks: 
-SAPUI5, CAP, RAP, SAP GW (Gateway) FastAPI, Flask, Django
+SAPUI5, CAP, RAP, FastAPI, SAP GW (Gateway), Flask, Django
 
 ### Tools: 
 SAP BTP, AWS, Docker, Git, GitHub, HANA, PostgreSQL, Figma
